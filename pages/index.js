@@ -16,9 +16,11 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
+          
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>pages/index.js</code>
+          <h1><span style={{color: 'blue'}}>Murad</span> Hotels Booking</h1>
+          <h3>we offer best prices</h3>
+            100% <b>Fakher</b> free <br/> 100% <b>Khamed</b> free
           </p>
           <div>
             <a
