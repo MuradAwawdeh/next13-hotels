@@ -19,7 +19,7 @@ export default function Home() {
           
           <p>
           <h1><span style={{color: 'blue'}}>Murad</span> Hotels Booking</h1>
-            100% <b>Fakher</b> free <br/> 100% <b>Khamed</b> free
+            <div>100% <b>Fakher</b> free </div><div> 100% <b>Khamed</b> free</div>
           </p>
           <div>
             <a
