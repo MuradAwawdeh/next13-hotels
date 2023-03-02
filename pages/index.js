@@ -4,7 +4,7 @@ export default function Home() {
         <h1><span style={{color: 'blue', fontWeight: 'bold'}}>Murad</span> Hotels Booking</h1>
         <div> 100% <b>Khamed</b> free</div>
         <div>100% <b>Fakher</b> free </div>
-        <h2>comming SoooooooooooooN!</h2>
+        <h2>comming SoooooooooooooN!!!</h2>
     </div>
   )
 }
